@@ -12,13 +12,13 @@ permalink: /weeks/week-01/
 ## TRACE｜痕跡
 
 放入 1–3 張圖片，並為每張圖片寫下具體說明：何時、何地、發生了什麼，以及為什麼留下它。
-![my-photo]({{ '/assets/images/IMG_3410.jpg' | relative_url }})
+![my-photo]({{ '/assets/images/IMG_3410.jpeg' | relative_url }})
 暑假快結束時、中國平潭島、在台灣小鎮吃台式牛肉便當，但好像不怎麼台式
 
-![my-photo]({{ '/assets/images/IMG_3479.jpg' | relative_url }})
+![my-photo]({{ '/assets/images/IMG_3479.jpeg' | relative_url }})
 開學前一天晚上、高雄左營高鐵站、準備入地獄，要跟家人報備我搭上地獄列車了(因為我搭自由座TT)
 
-![my-photo]({{ '/assets/images/IMG_3439.jpg' | relative_url }})
+![my-photo]({{ '/assets/images/IMG_3439.jpeg' | relative_url }})
 開學後第一周、學校對面、跟朋友去吃飯，很開心
 
 ## FRICTION｜摩擦
@@ -37,4 +37,4 @@ Haraway 主張沒有人能夠不經中介地直接認識世界，連認識自己
 
 比起模糊的直覺，這種用身體先產生一點可讀的線索的方式，能不能讓我的自我評估更貼近實際唱歌時的表現。
 
-![共同繪製的教室導航地圖]({{ '/assets/images/facedetect1.jpg' | relative_url }})
+![共同繪製的教室導航地圖]({{ '/assets/images/IMG_3547.jpeg' | relative_url }})
