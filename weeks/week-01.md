@@ -18,7 +18,7 @@ permalink: /weeks/week-01/
 ![my-photo]({{ '/assets/images/IMG_3479.jpeg' | relative_url }})
 開學前一天晚上、高雄左營高鐵站、準備入地獄，要跟家人報備我搭上地獄列車了(因為我搭自由座TT)
 
-![my-photo]({{ '/assets/images/IMG_3439.jpeg' | relative_url }})
+![my-photo]({{ '/assets/images/IMG_3539.jpeg' | relative_url }})
 開學後第一周、學校對面、跟朋友去吃飯，很開心
 
 ## FRICTION｜摩擦
