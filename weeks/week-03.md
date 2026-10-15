@@ -14,7 +14,7 @@ permalink: /weeks/week-03/
 
 ## FRICTION｜摩擦
 
-描述一個沒有如預期發生的瞬間。
+本周由我們這組導讀footprints through the weather - world : walking, breathing, knowing這份文本。我們最後準備了一個工作坊，大家將
 
 ## CONNECTION｜連結
 
