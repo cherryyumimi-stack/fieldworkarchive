@@ -14,7 +14,7 @@ permalink: /weeks/week-03/
 
 ## FRICTION｜摩擦
 
-本周由我們這組導讀footprints through the weather - world : walking, breathing, knowing這份文本。我們最後準備了一個工作坊，大家將
+本周由我們這組導讀footprints through the weather - world : walking, breathing, knowing這份文本。我們最後準備了一個工作坊，大家將眼睛閉起來感受身邊的空氣，從頭頂，到腳趾，空氣的流動、聲音的出現及消失，最後再將感受用非慣用手畫下來（或是慣用手都可以）。我覺得
 
 ## CONNECTION｜連結
 
